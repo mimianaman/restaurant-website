@@ -10,3 +10,13 @@
 .text-yellow {
   color: #feb618;
 }
+
+.mt-10 {
+  margin-top: 5rem;
+}
+.title {
+  font-size: 5rem;
+}
+.btn-warning {
+  background-color: #feb618;
+}
